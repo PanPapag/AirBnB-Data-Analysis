@@ -1,4 +1,4 @@
-# Airbnb-Data-Analysis
+# AirBnB-Data-Analysis
 The goal of this project is to analyze the AirBnB Dataset, created from Athens, Greece listing records, using visualizations and learning models. For our surprise, these findings provide a lot of interesting insights into the world of AirBnB hosting.
 
 ## Data overview 
