@@ -1,11 +1,11 @@
 # Airbnb-Data-Analysis
 
 
-## Installation
+## Prerequisites
 * Install Jupyter using Anaconda and conda from the link below:\
 https://jupyter.readthedocs.io/en/latest/install.html#id3
 
-*
+* ```pip install -r requirements.txt```
 
 
 ## License
